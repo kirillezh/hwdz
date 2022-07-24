@@ -1,0 +1,37 @@
+:root{
+	--color: white;
+	--color30: #ffffff30;
+	--color3d0: #1d1d1d;
+	--colorf0: #fffffff0;
+	--trans: #1d1d1d00;
+	--bg: #1d1d1d;
+	--bg30: #1d1d1d30;
+	--bg80: #1d1d1d80;
+	--bginv: white;;
+	--a: #dfdfdf;
+}
+#btn_chn{
+background-image: url(/inc/svg/darkmode_sun.svg); 
+background-size: 80%;
+	}
+	
+#team #del button.btn-close.btn-close-white {
+    filter: invert(0) grayscale(0) brightness(0);
+}
+
+div#Elem {
+    background: #464646;
+    border: 1px solid #ffffff0f;
+    color: white;
+}
+
+.custom a.dropdown-item {
+    color: white;
+}
+
+.custom li {
+    color: white;
+}
+td.row_2 {
+    border-color: #b3b3b3!important;
+}

@@ -1,0 +1,16 @@
+:root{
+	--color: black;
+	--color30: #00000030;
+	--color3d0: #ffffff;
+	--trans: #ffffff00;
+	--colorf0: #000000d0;
+	--bg: white;
+	--bg30: #ffffff30;
+	--bg80: #ffffff80;
+	--bginv: #1d1d1d;;
+	--a: #1f1f1f;
+}
+#btn_chn{
+background-image: url(/inc/svg/darkmode_moon.svg); 
+background-size: 60%;
+}
